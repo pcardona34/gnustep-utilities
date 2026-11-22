@@ -1,0 +1,8 @@
+quilt
+dict
+dict-freedict-eng-fra
+dict-freedict-fra-eng
+dict-jargon
+dictd
+dict-gcide
+dict-vera

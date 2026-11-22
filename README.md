@@ -14,5 +14,26 @@ and then to build and install them into a GNUstep Desktop.
 
 ## List of available Utilities
 
+- Affiche
+- Calculator
+- Console
+- DictionaryReader
+- Fontmanager
+- FTP
+- MemWatch
+
 **To be completed**...
 
+## Purgatory
+
+### CPUCheck
+
+See [issue](https://github.com/nu-gap/apps-cpucheck/issues/1)
+
+### Installer
+
+This application is not yet finished. **Must involve with a new package spec.**
+
+### MountUp
+
+See [issue](https://github.com/pcardona34/MountUp/issues/1)

@@ -21,6 +21,9 @@ and then to build and install them into a GNUstep Desktop.
 - Fontmanager
 - FTP
 - MemWatch
+- MountUp
+- ScanImage
+- StepSync
 
 **To be completed**...
 
@@ -34,6 +37,6 @@ See [issue](https://github.com/nu-gap/apps-cpucheck/issues/1)
 
 This application is not yet finished. **Must involve with a new package spec.**
 
-### MountUp
+### NetCheck
 
-See [issue](https://github.com/pcardona34/MountUp/issues/1)
+See [issue](https://github.com/nu-gap/NetCheck/issues/1)

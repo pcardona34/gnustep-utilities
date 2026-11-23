@@ -42,7 +42,7 @@ fi
 sleep 2;clear
 
 ### Setting quilt patch tool
-set_quilt
+#set_quilt
 
 ### Build and Install the GNUstep app
 clear
@@ -66,8 +66,8 @@ subtitulo
 pushd . >/dev/null
 cd build/${REPO} || exit 1
 
-printf "Patching with quilt...\n"
-quilt push -a
+#printf "Patching with quilt...\n"
+#quilt push -a
 
 cd ${SUBCATEGORY} || exit 1
 

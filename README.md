@@ -24,8 +24,7 @@ and then to build and install them into a GNUstep Desktop.
 - MountUp
 - ScanImage
 - StepSync
-
-**To be completed**...
+- Zipper
 
 ## Purgatory
 
